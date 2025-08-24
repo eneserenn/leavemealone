@@ -1,3 +1,4 @@
+ codex/create-self-hosted-email-management-app-japl8l
 # LeaveMeAlone (Self-hosted Gmail Unsubscribe Tool)
 
 ## Proje Özeti
